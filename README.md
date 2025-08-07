@@ -1,4 +1,4 @@
 # Traffic-Light-Controller-Verilog-code
 This is my first git repository.
-<sr>
+<br>
 Tanu Tanania [IIT Jammu]
