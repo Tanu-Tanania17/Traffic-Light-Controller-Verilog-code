@@ -1,0 +1,5 @@
+The Traffic Signal for main highway gets the highest priority because cars are
+continuously present on the main highway. Thus, the main highway signal remains 
+Green by default. Occasionally, cars from the country road arrive at the traffic 
+signal. The traffic signal for the country road must turn Green only long enough
+to let the cars on the country road go.
